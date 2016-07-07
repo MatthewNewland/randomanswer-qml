@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name = Random Answer
+Type = Application
+Comment = Get a useless answer to life's most burning questions
+Exec = randomanswer
+Icon = randomanswer
+
