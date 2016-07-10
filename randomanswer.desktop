@@ -4,4 +4,4 @@ Type=Application
 Comment=Get a useless answer to life's most burning questions
 Exec=randomanswer
 Icon=randomanswer
-
+Categories=Game;
